@@ -6,4 +6,4 @@ The current files uploaded are for implementing Minibatch Discrimination (MBD) f
 You can edit the Model.py file accordingly to remove MBD layers and/or to add more Convolution-Pooling layer as described in the paper.
 
 Run the script by:
-$python3 train.py
+```$python3 train.py```
