@@ -7,3 +7,18 @@ You can edit the ```Model.py``` file accordingly to remove MBD layers and/or to 
 
 Usage:
 ```$python3 train.py```
+
+------
+## Citation
+
+If you find this repo helpful in any way please cite our arXiv preprint:
+
+
+    @misc{delaney2019synthesis,
+      title={Synthesis of Realistic ECG using Generative Adversarial Networks},  
+      author={Anne Marie Delaney and Eoin Brophy and Tomas E. Ward},
+      year={2019},
+      eprint={1909.09150},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP}
+    }
